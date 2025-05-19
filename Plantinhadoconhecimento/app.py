@@ -6,7 +6,7 @@ import random
 
 class PlantinhaDoConhecimento:
     def __init__(self):
-        self.api_key = "AIzaSyDcyvVlwv-GRoN3XBFfqvmmLOjW1XmVhRc"  # Substitua pela sua API key real
+        self.api_key = ""  # Substitua pela sua API key real
         self.nivel_crescimento = 0
         self.ultima_alimentacao = None
         self.assuntos = {
